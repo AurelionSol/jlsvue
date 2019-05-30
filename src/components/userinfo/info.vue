@@ -3,7 +3,7 @@
     <el-col>
       <el-col :span="4" class="menu-col">
         <div class="info-icon">
-          <img src="../assets/user-icon.jpg" alt="user-icon"
+          <img src="../../assets/user-icon.jpg" alt="user-icon"
                style="width: 120px;height: 120px;border-radius:50%;margin-top: 5%;border:2px solid #eeeef0">
           <p style="color: darkgrey;font-size: 16px;">
             {{user.nickname}}

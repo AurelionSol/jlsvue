@@ -8,7 +8,7 @@
 </template>
 
 <script>
-  import learnprogress from './learnprogree'
+  import learnprogress from './userlearnprogree'
     export default {
         name: "userrate",
         components: {learnprogress},
