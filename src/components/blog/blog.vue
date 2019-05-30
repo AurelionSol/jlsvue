@@ -58,8 +58,8 @@
         this.currentArticle = this.articles.slice((this.currentPage - 1) * this.pageSize, this.currentPage * this.pageSize);
       }
     },
-
     components: {BlogCard}
+
   }
 </script>
 
